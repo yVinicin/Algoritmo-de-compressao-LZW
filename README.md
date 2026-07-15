@@ -22,8 +22,8 @@ O algoritmo constrói um dicionário dinâmico durante a leitura dos dados:
 
 ```bash
 Algoritmo-de-compressao-LZW/
-├── src/                                         # Código fonte do compressor e descompressor (Python)
-├── PROCESSAMENTO DE IMAGENS DIGITAIS.pdf        # Material/relatório da disciplina
+├── src/                                         # Código fonte do compressor (Python)
+├── PROCESSAMENTO DE IMAGENS DIGITAIS.pdf        # Especificações do trabalho
 └── README.md                                    # Esta documentação
 ```
 
